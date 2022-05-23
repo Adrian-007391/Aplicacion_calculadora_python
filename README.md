@@ -1,5 +1,5 @@
 # Calculadora 
-esta applicacion de calculadora fue hecha con __python__ y la libreria __tkinter__ 
+esta applicacion de calculadora fue hecha con __python__ y la libreria [tkinter](https://docs.python.org/es/3/library/tkinter.html)
 
 para correrla, necesitaras [python 3](https://www.python.org/download/releases/3.0/) y correr en la terminal 
 
